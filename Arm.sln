@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArmUI", "Arm\ArmUI.csproj", "{DCE63E0B-2415-44DE-AD7E-1EC8CF7D9823}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kinematics", "Kinematics\Kinematics.csproj", "{A2FEE5F7-6E99-4F7D-81CF-F18FEC629AAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArmController", "ArmController\ArmController.csproj", "{652D3504-C170-456B-B397-15702AD9C8EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCE63E0B-2415-44DE-AD7E-1EC8CF7D9823}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCE63E0B-2415-44DE-AD7E-1EC8CF7D9823}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCE63E0B-2415-44DE-AD7E-1EC8CF7D9823}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCE63E0B-2415-44DE-AD7E-1EC8CF7D9823}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2FEE5F7-6E99-4F7D-81CF-F18FEC629AAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2FEE5F7-6E99-4F7D-81CF-F18FEC629AAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2FEE5F7-6E99-4F7D-81CF-F18FEC629AAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2FEE5F7-6E99-4F7D-81CF-F18FEC629AAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{652D3504-C170-456B-B397-15702AD9C8EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{652D3504-C170-456B-B397-15702AD9C8EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{652D3504-C170-456B-B397-15702AD9C8EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{652D3504-C170-456B-B397-15702AD9C8EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
