@@ -9,6 +9,35 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kinematics", "Kinematics\Ki
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArmController", "ArmController\ArmController.csproj", "{652D3504-C170-456B-B397-15702AD9C8EA}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ArmScripts", "ArmScripts", "{AF0F861A-F868-452B-909F-CB1E9E7D64FE}"
+	ProjectSection(SolutionItems) = preProject
+		arm scripts\106-28 compare.arm = arm scripts\106-28 compare.arm
+		arm scripts\28-18 compare.arm = arm scripts\28-18 compare.arm
+		arm scripts\64-28 compare.arm = arm scripts\64-28 compare.arm
+		arm scripts\dropInBoxAndReturnToKinectReady.arm = arm scripts\dropInBoxAndReturnToKinectReady.arm
+		arm scripts\horizontal.arm = arm scripts\horizontal.arm
+		arm scripts\KinStart.arm = arm scripts\KinStart.arm
+		arm scripts\lineTest.arm = arm scripts\lineTest.arm
+		arm scripts\lineTest2.arm = arm scripts\lineTest2.arm
+		arm scripts\NewStack2.4.arm = arm scripts\NewStack2.4.arm
+		arm scripts\NewStack2.arm = arm scripts\NewStack2.arm
+		arm scripts\pick and place.arm = arm scripts\pick and place.arm
+		arm scripts\Pitch1.3.arm = arm scripts\Pitch1.3.arm
+		arm scripts\Pitch2.2.arm = arm scripts\Pitch2.2.arm
+		arm scripts\Pitch3.3.3.arm = arm scripts\Pitch3.3.3.arm
+		arm scripts\PitchAll5.arm = arm scripts\PitchAll5.arm
+		arm scripts\pitchBetween1And2.1.arm = arm scripts\pitchBetween1And2.1.arm
+		arm scripts\recording1.arm = arm scripts\recording1.arm
+		arm scripts\resting.arm = arm scripts\resting.arm
+		arm scripts\stack1.arm = arm scripts\stack1.arm
+		arm scripts\stack2-1.arm = arm scripts\stack2-1.arm
+		arm scripts\stack3.arm = arm scripts\stack3.arm
+		arm scripts\stackTest.arm = arm scripts\stackTest.arm
+		arm scripts\start+kinect.arm = arm scripts\start+kinect.arm
+		arm scripts\start.arm = arm scripts\start.arm
+		arm scripts\stop.arm = arm scripts\stop.arm
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

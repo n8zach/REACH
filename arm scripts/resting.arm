@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Script xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Commands>
+    <ArrayOfCommand>
+      <Command>
+        <Id>0</Id>
+        <GoalPosition>2027</GoalPosition>
+      </Command>
+      <Command>
+        <Id>1</Id>
+        <GoalPosition>3465</GoalPosition>
+      </Command>
+      <Command>
+        <Id>2</Id>
+        <GoalPosition>2119</GoalPosition>
+      </Command>
+      <Command>
+        <Id>3</Id>
+        <GoalPosition>3567</GoalPosition>
+      </Command>
+      <Command>
+        <Id>4</Id>
+        <GoalPosition>1948</GoalPosition>
+      </Command>
+      <Command>
+        <Id>5</Id>
+        <GoalPosition>691</GoalPosition>
+      </Command>
+      <Command>
+        <Id>6</Id>
+        <GoalPosition>764</GoalPosition>
+      </Command>
+    </ArrayOfCommand>
+  </Commands>
+</Script>
